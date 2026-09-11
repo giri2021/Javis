@@ -53,12 +53,8 @@ pip install -r requirements.txt
  
 Create a `.env` file in the root directory:
  
-```env
-LIVEKIT_URL=wss://your-livekit-server.livekit.cloud
-LIVEKIT_API_KEY=your_livekit_api_key
-LIVEKIT_API_SECRET=your_livekit_api_secret
-GOOGLE_API_KEY=your_google_api_key
-```
+
+
  
 > 💡 Get your LiveKit credentials at [livekit.io](https://livekit.io) and your Google API key from [Google AI Studio](https://aistudio.google.com).
  
